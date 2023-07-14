@@ -39,6 +39,5 @@ print('Prediction: ', m1.predict([[11,6,4,1,2015,11,2]])) //set the desired date
 Prediction:  [8.32]
 //approximately equal to 8 vehicles on the given date as per the prediction
 ```
-
-Snapshot:
+![vehicle count code output snapshot](https://github.com/thedevsafaf/vehicle-count-predict-from-data-python-machine-learning/assets/85129653/5aca2739-eeae-4937-877c-c38f8c42fe19)
 
